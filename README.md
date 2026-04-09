@@ -103,7 +103,7 @@ Generate insights using SQL:
 ## 📂 Repository Structure
 
 data-warehouse-project/
-│
+│   
 ├── datasets/ # Raw ERP & CRM datasets
 │
 ├── docs/ # Documentation & diagrams
