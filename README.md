@@ -101,7 +101,7 @@ Generate insights using SQL:
 ---
 
 ## 📂 Repository Structure
-
+```
 data-warehouse-project/
 │   
 ├── datasets/ # Raw ERP & CRM datasets
@@ -125,3 +125,4 @@ data-warehouse-project/
 ├── LICENSE
 ├── .gitignore
 └── requirements.txt
+```
