@@ -10,6 +10,8 @@ It is designed as a **portfolio project** showcasing best practices in **data en
 
 ## 🏗️ Data Architecture
 
+<img src="docs/data integration.jpeg" width="100%" />
+
 This project follows the **Medallion Architecture** approach:
 
 ### 🥉 Bronze Layer
