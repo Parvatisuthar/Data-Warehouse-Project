@@ -128,3 +128,6 @@ data-warehouse-project/
 ├── .gitignore
 └── requirements.txt
 ```
+# SnapShots
+<img src="docs/ss1.jpeg" width="100%" />
+<img src="docs/ss2.jpeg" width="100%" />
